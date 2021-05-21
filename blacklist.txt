@@ -831,6 +831,7 @@
 *://www.hachi8.me/*
 *://www.hellopyeongchang.com/*
 *://www.hira2.jp/*
+*://www.it-swarm.dev/*
 *://www.jikenjiko-hukabori.com/*
 *://www.juxtin.com/*
 *://www.ko24cs.com/*
