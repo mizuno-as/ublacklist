@@ -222,6 +222,7 @@
 *://geinounewstorenndo.blog.ss-blog.jp/*
 *://geinouninzin.net/*
 *://geisposoul.com/*
+*://gendai.ismedia.jp/*
 *://genkimorizou.com/*
 *://genkimura.net/*
 *://geronhaita.com/*
