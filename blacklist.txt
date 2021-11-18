@@ -939,3 +939,10 @@
 /.*(2ch).*/
 /.*(5ch).*/
 /.*(matome).*/
+*://gamecentergx.at-ninja.jp/*
+*://gcgx.games/*
+*://news.mynavi.jp/*
+*://fortuberwiki.blog/*
+*://xneo.jp/*
+*://appli-world.jp/*
+*://eki-docomokirai.hatenablog.com/*
